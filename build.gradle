@@ -50,6 +50,7 @@ dependencies {
 
     // gitter API
     compile 'com.github.amatkivskiy:gitter.sdk.rx:1.6.0'
+    compile 'com.squareup.okhttp:okhttp:2.5.0'
 
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
